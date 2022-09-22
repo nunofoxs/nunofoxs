@@ -1,8 +1,8 @@
 ### 💬 Nuno aqui!
 <div align="center">
   <a href="https://github.com/nunofoxs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nunofoxs&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunofoxs&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nunofoxs&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunofoxs&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 <div style="display: inline_block"><br>
